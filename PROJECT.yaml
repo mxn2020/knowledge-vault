@@ -1,5 +1,6 @@
-id: 586fd9f8-f1dd-4f2e-b862-d2f139680fcd
 name: knowledge-vault
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, vite]
 repo: "https://github.com/mxn2020/knowledge-vault"
 deploy_url: null
 last_active: 2026-02-24
-tags: []
-notes: 
+tags: [knowledge-base, wiki, documentation, notes, search, organization, tools]
+notes: null
+id: 586fd9f8-f1dd-4f2e-b862-d2f139680fcd
